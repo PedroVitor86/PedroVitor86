@@ -25,3 +25,6 @@ Me chamo Pedro Vitor, estudante na UniFECAF. Atualmente, estou em uma jornada in
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
+
+---
+
