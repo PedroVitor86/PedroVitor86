@@ -1,16 +1,22 @@
-## Hi there 👋
+#  👨🏾‍🦱💻 Pedro Vitor
 
-<!--
-**PedroVitor86/PedroVitor86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`🚀 Desenvolvedora FullStack`**
 
-Here are some ideas to get you started:
+Me chamo Pedro Vitor, estudante na UniFECAF. Atualmente, estou em uma jornada intensiva de estudos e prática focada 100% em desenvolvimento de software. Meu objetivo é dominar o desenvolvimento FullStack, construindo aplicações robustas no back-end com o ecossistema Java e Spring, interfaces dinâmicas no front-end com React e Angular, e implementando arquiteturas modernas envolvendo DevOps, Mensageria e Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />" 
+/>
+
+  />
+
+</p>
